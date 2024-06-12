@@ -1,8 +1,7 @@
-## X-Beat | React eCommerce Web App
+## Tech Haven | React eCommerce Web App
 
-### [Demo Link](https://x-beat.netlify.app/) 🔗
 
-Audio Store eCommerce Website, built with **React JS**. <br/>
+Gadget eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
 <br/>
 
@@ -30,10 +29,6 @@ State management using Context API.
 - #### **SASS**
 
 <br/>
-
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
 
 <br/>
 

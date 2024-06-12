@@ -24,40 +24,52 @@ export const sortMenu = [
 export const brandsMenu = [
     {
         id: 1,
-        label: "JBL",
+        label: "Apple",
         checked: false,
     },
     {
         id: 2,
-        label: "BoAt",
+        label: "Samsung",
         checked: false,
     },
+
     {
         id: 3,
         label: "Sony",
         checked: false,
     },
+    {
+        id: 4,
+        label: "JBL",
+        checked: false,
+    },
+    
 ];
 
 export const categoryMenu = [
     {
         id: 1,
-        label: "Headphones",
+        label: "Phones",
         checked: false,
     },
     {
         id: 2,
-        label: "Earbuds",
+        label: "Laptops",
         checked: false,
     },
     {
         id: 3,
-        label: "Earphones",
+        label: "Headphones",
         checked: false,
     },
     {
         id: 4,
-        label: "Neckbands",
+        label: "Earphones",
+        checked: false,
+    },
+    {
+        id: 5,
+        label: "Watches",
         checked: false,
     },
 ];
